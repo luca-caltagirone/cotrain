@@ -9,3 +9,6 @@
 
 ### Data set splits:
 In the folder sets, you can find the 20 data set splits used for generating the results reported in the paper.
+
+### Code for generating data sets and training:
+Coming soon
