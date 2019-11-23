@@ -1,6 +1,6 @@
 # Repository for the paper "Lidar-Camera Co-Training for Semi-Supervised Road Detection'  
 ### Important links:
-* Link to paper paper preprint: 
+* Link to paper preprint: 
 * Link to youtube playlist with comparison videos: 
 
 ### Info about CNNs:
