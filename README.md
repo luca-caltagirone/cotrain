@@ -1,7 +1,7 @@
 # Repository for the paper "Lidar-Camera Co-Training for Semi-Supervised Road Detection'  
 ### Important links:
 * Link to paper preprint: 
-* Link to youtube playlist with comparison videos: 
+* Link to youtube playlist with comparison videos: https://www.youtube.com/playlist?list=PLKaUu00MYU2j06UY99kMS7FOEdjesKYJ_
 
 ### Info about CNNs:
 * Code for the U-Net implementation used in this work:  https://github.com/jvanvugt/pytorch-unet
