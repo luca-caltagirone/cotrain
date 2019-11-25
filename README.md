@@ -3,7 +3,7 @@
 * Link to paper preprint: 
 * Link to youtube playlist with comparison videos: [click here](https://www.youtube.com/playlist?list=PLKaUu00MYU2j06UY99kMS7FOEdjesKYJ_)
 
-### Info about CNNs:
+### Info about the CNNs:
 * Code for the U-Net implementation used in this work:  https://github.com/jvanvugt/pytorch-unet
 * The FCN-Resnet50 is implemented in torchvision: https://pytorch.org/docs/master/torchvision/models.html#semantic-segmentation 
 
