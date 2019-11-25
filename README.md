@@ -5,7 +5,7 @@
 
 ### Info about CNNs:
 * Code for the U-Net implementation used in this work:  https://github.com/jvanvugt/pytorch-unet
-* The FCN-Resnet50 is implemented in torchvision https://pytorch.org/docs/master/torchvision/models.html#semantic-segmentation 
+* The FCN-Resnet50 is implemented in torchvision: https://pytorch.org/docs/master/torchvision/models.html#semantic-segmentation 
 
 ### Data set splits:
 In the folder sets, you can find the 20 data set splits used for generating the results reported in the paper.
