@@ -13,10 +13,12 @@
 In the folder sets, you can find the 20 data set splits used for generating the results reported in the paper.
 
 ### Code for generating data sets and training:
-Coming soon
+I will upload the code for generating the data sets and for training the networks once we have completed the work
+on a follow-up paper. If you are a researcher and you would like to access the code before it is publicly available
+in order to reproduce our results, please send me an email.
 
 
-### Citation
+### Citation:
 Preprint citation of the paper:
 ```
 @article{CaltagironeEtAl2019,
