@@ -1,0 +1,501 @@
+#Final F1-score and improvement with respect to the supervised baseline 
+#for all 20 training-validation splits
+=================================
+TRAINSET:-----9
+=================================
+-----------
+set_001
+supervised baseline --- lidar: 85.64 --- rgb: 84.80
+co-training --- lidar: 93.22 - delta: 7.58 ---  rgb: 93.86 - delta.: 9.06
+-----------
+set_002
+supervised baseline --- lidar: 86.14 --- rgb: 88.11
+co-training --- lidar: 92.61 - delta: 6.47 ---  rgb: 93.30 - delta.: 5.19
+-----------
+set_003
+supervised baseline --- lidar: 86.87 --- rgb: 85.90
+co-training --- lidar: 94.60 - delta: 7.73 ---  rgb: 94.32 - delta.: 8.42
+-----------
+set_004
+supervised baseline --- lidar: 83.70 --- rgb: 86.50
+co-training --- lidar: 89.11 - delta: 5.41 ---  rgb: 90.84 - delta.: 4.34
+-----------
+set_005
+supervised baseline --- lidar: 83.99 --- rgb: 87.18
+co-training --- lidar: 92.15 - delta: 8.16 ---  rgb: 92.16 - delta.: 4.98
+-----------
+set_006
+supervised baseline --- lidar: 77.78 --- rgb: 89.04
+co-training --- lidar: 93.37 - delta: 15.59 ---  rgb: 93.34 - delta.: 4.30
+-----------
+set_007
+supervised baseline --- lidar: 87.11 --- rgb: 89.96
+co-training --- lidar: 93.31 - delta: 6.20 ---  rgb: 93.41 - delta.: 3.45
+-----------
+set_008
+supervised baseline --- lidar: 83.53 --- rgb: 87.33
+co-training --- lidar: 93.76 - delta: 10.23 ---  rgb: 94.09 - delta.: 6.76
+-----------
+set_009
+supervised baseline --- lidar: 84.55 --- rgb: 85.42
+co-training --- lidar: 92.06 - delta: 7.51 ---  rgb: 92.47 - delta.: 7.05
+-----------
+set_010
+supervised baseline --- lidar: 86.79 --- rgb: 84.24
+co-training --- lidar: 92.30 - delta: 5.51 ---  rgb: 92.63 - delta.: 8.39
+-----------
+set_011
+supervised baseline --- lidar: 78.52 --- rgb: 84.39
+co-training --- lidar: 89.55 - delta: 11.03 ---  rgb: 90.93 - delta.: 6.54
+-----------
+set_012
+supervised baseline --- lidar: 80.93 --- rgb: 89.30
+co-training --- lidar: 91.60 - delta: 10.67 ---  rgb: 91.64 - delta.: 2.34
+-----------
+set_013
+supervised baseline --- lidar: 84.32 --- rgb: 85.64
+co-training --- lidar: 91.05 - delta: 6.73 ---  rgb: 91.65 - delta.: 6.01
+-----------
+set_014
+supervised baseline --- lidar: 81.44 --- rgb: 87.33
+co-training --- lidar: 92.79 - delta: 11.35 ---  rgb: 92.53 - delta.: 5.20
+-----------
+set_015
+supervised baseline --- lidar: 85.38 --- rgb: 87.04
+co-training --- lidar: 92.54 - delta: 7.16 ---  rgb: 92.61 - delta.: 5.57
+-----------
+set_016
+supervised baseline --- lidar: 85.67 --- rgb: 86.43
+co-training --- lidar: 92.18 - delta: 6.51 ---  rgb: 91.94 - delta.: 5.51
+-----------
+set_017
+supervised baseline --- lidar: 83.48 --- rgb: 85.85
+co-training --- lidar: 92.99 - delta: 9.51 ---  rgb: 92.18 - delta.: 6.33
+-----------
+set_018
+supervised baseline --- lidar: 82.32 --- rgb: 85.81
+co-training --- lidar: 91.59 - delta: 9.27 ---  rgb: 91.83 - delta.: 6.02
+-----------
+set_019
+supervised baseline --- lidar: 88.69 --- rgb: 83.43
+co-training --- lidar: 94.41 - delta: 5.72 ---  rgb: 94.07 - delta.: 10.64
+-----------
+set_020
+supervised baseline --- lidar: 88.08 --- rgb: 86.67
+co-training --- lidar: 92.69 - delta: 4.61 ---  rgb: 92.66 - delta.: 5.99
+=================================
+TRAINSET:-----18
+=================================
+-----------
+set_001
+supervised baseline --- lidar: 89.83 --- rgb: 88.44
+co-training --- lidar: 95.11 - delta: 5.28 ---  rgb: 95.03 - delta.: 6.59
+-----------
+set_002
+supervised baseline --- lidar: 90.36 --- rgb: 90.50
+co-training --- lidar: 94.17 - delta: 3.81 ---  rgb: 95.31 - delta.: 4.81
+-----------
+set_003
+supervised baseline --- lidar: 89.20 --- rgb: 92.17
+co-training --- lidar: 94.29 - delta: 5.09 ---  rgb: 93.97 - delta.: 1.80
+-----------
+set_004
+supervised baseline --- lidar: 85.09 --- rgb: 89.26
+co-training --- lidar: 93.69 - delta: 8.60 ---  rgb: 93.76 - delta.: 4.50
+-----------
+set_005
+supervised baseline --- lidar: 89.77 --- rgb: 91.36
+co-training --- lidar: 94.44 - delta: 4.67 ---  rgb: 94.85 - delta.: 3.49
+-----------
+set_006
+supervised baseline --- lidar: 81.40 --- rgb: 89.87
+co-training --- lidar: 90.20 - delta: 8.80 ---  rgb: 90.80 - delta.: 0.93
+-----------
+set_007
+supervised baseline --- lidar: 88.70 --- rgb: 92.31
+co-training --- lidar: 93.79 - delta: 5.09 ---  rgb: 94.26 - delta.: 1.95
+-----------
+set_008
+supervised baseline --- lidar: 88.36 --- rgb: 89.84
+co-training --- lidar: 94.95 - delta: 6.59 ---  rgb: 94.11 - delta.: 4.27
+-----------
+set_009
+supervised baseline --- lidar: 90.16 --- rgb: 87.37
+co-training --- lidar: 93.27 - delta: 3.11 ---  rgb: 93.38 - delta.: 6.01
+-----------
+set_010
+supervised baseline --- lidar: 86.90 --- rgb: 90.80
+co-training --- lidar: 94.46 - delta: 7.56 ---  rgb: 94.64 - delta.: 3.84
+-----------
+set_011
+supervised baseline --- lidar: 86.58 --- rgb: 88.87
+co-training --- lidar: 93.53 - delta: 6.95 ---  rgb: 93.53 - delta.: 4.66
+-----------
+set_012
+supervised baseline --- lidar: 86.67 --- rgb: 90.19
+co-training --- lidar: 92.58 - delta: 5.91 ---  rgb: 92.50 - delta.: 2.31
+-----------
+set_013
+supervised baseline --- lidar: 87.32 --- rgb: 89.13
+co-training --- lidar: 93.12 - delta: 5.80 ---  rgb: 93.47 - delta.: 4.34
+-----------
+set_014
+supervised baseline --- lidar: 86.38 --- rgb: 89.07
+co-training --- lidar: 92.48 - delta: 6.10 ---  rgb: 92.56 - delta.: 3.49
+-----------
+set_015
+supervised baseline --- lidar: 89.72 --- rgb: 90.12
+co-training --- lidar: 94.74 - delta: 5.02 ---  rgb: 94.89 - delta.: 4.77
+-----------
+set_016
+supervised baseline --- lidar: 88.89 --- rgb: 90.19
+co-training --- lidar: 95.03 - delta: 6.14 ---  rgb: 94.98 - delta.: 4.79
+-----------
+set_017
+supervised baseline --- lidar: 82.73 --- rgb: 88.15
+co-training --- lidar: 94.55 - delta: 11.82 ---  rgb: 93.31 - delta.: 5.16
+-----------
+set_018
+supervised baseline --- lidar: 90.70 --- rgb: 90.45
+co-training --- lidar: 93.41 - delta: 2.71 ---  rgb: 93.38 - delta.: 2.93
+-----------
+set_019
+supervised baseline --- lidar: 88.70 --- rgb: 91.04
+co-training --- lidar: 94.52 - delta: 5.82 ---  rgb: 93.98 - delta.: 2.94
+-----------
+set_020
+supervised baseline --- lidar: 90.40 --- rgb: 89.32
+co-training --- lidar: 95.13 - delta: 4.73 ---  rgb: 94.57 - delta.: 5.25
+=================================
+TRAINSET:-----36
+=================================
+-----------
+set_001
+supervised baseline --- lidar: 90.25 --- rgb: 92.93
+co-training --- lidar: 95.62 - delta: 5.37 ---  rgb: 95.51 - delta.: 2.58
+-----------
+set_002
+supervised baseline --- lidar: 92.72 --- rgb: 92.90
+co-training --- lidar: 95.09 - delta: 2.37 ---  rgb: 95.58 - delta.: 2.68
+-----------
+set_003
+supervised baseline --- lidar: 92.48 --- rgb: 93.20
+co-training --- lidar: 95.60 - delta: 3.12 ---  rgb: 95.30 - delta.: 2.10
+-----------
+set_004
+supervised baseline --- lidar: 90.97 --- rgb: 92.20
+co-training --- lidar: 95.47 - delta: 4.50 ---  rgb: 95.48 - delta.: 3.28
+-----------
+set_005
+supervised baseline --- lidar: 92.62 --- rgb: 92.65
+co-training --- lidar: 95.69 - delta: 3.07 ---  rgb: 95.33 - delta.: 2.68
+-----------
+set_006
+supervised baseline --- lidar: 91.39 --- rgb: 92.55
+co-training --- lidar: 94.95 - delta: 3.56 ---  rgb: 94.56 - delta.: 2.01
+-----------
+set_007
+supervised baseline --- lidar: 91.00 --- rgb: 92.30
+co-training --- lidar: 95.15 - delta: 4.15 ---  rgb: 95.40 - delta.: 3.10
+-----------
+set_008
+supervised baseline --- lidar: 88.49 --- rgb: 92.56
+co-training --- lidar: 95.66 - delta: 7.17 ---  rgb: 95.44 - delta.: 2.88
+-----------
+set_009
+supervised baseline --- lidar: 92.20 --- rgb: 91.58
+co-training --- lidar: 94.98 - delta: 2.78 ---  rgb: 94.81 - delta.: 3.23
+-----------
+set_010
+supervised baseline --- lidar: 92.23 --- rgb: 93.64
+co-training --- lidar: 95.47 - delta: 3.24 ---  rgb: 95.66 - delta.: 2.02
+-----------
+set_011
+supervised baseline --- lidar: 93.11 --- rgb: 92.32
+co-training --- lidar: 96.06 - delta: 2.95 ---  rgb: 95.67 - delta.: 3.35
+-----------
+set_012
+supervised baseline --- lidar: 93.50 --- rgb: 92.35
+co-training --- lidar: 95.40 - delta: 1.90 ---  rgb: 94.80 - delta.: 2.45
+-----------
+set_013
+supervised baseline --- lidar: 91.40 --- rgb: 92.05
+co-training --- lidar: 95.47 - delta: 4.07 ---  rgb: 95.91 - delta.: 3.86
+-----------
+set_014
+supervised baseline --- lidar: 91.55 --- rgb: 92.48
+co-training --- lidar: 95.39 - delta: 3.84 ---  rgb: 94.80 - delta.: 2.32
+-----------
+set_015
+supervised baseline --- lidar: 93.54 --- rgb: 92.99
+co-training --- lidar: 95.64 - delta: 2.10 ---  rgb: 95.15 - delta.: 2.16
+-----------
+set_016
+supervised baseline --- lidar: 92.40 --- rgb: 92.47
+co-training --- lidar: 95.24 - delta: 2.84 ---  rgb: 95.22 - delta.: 2.75
+-----------
+set_017
+supervised baseline --- lidar: 87.33 --- rgb: 90.76
+co-training --- lidar: 94.67 - delta: 7.34 ---  rgb: 93.96 - delta.: 3.20
+-----------
+set_018
+supervised baseline --- lidar: 92.34 --- rgb: 93.00
+co-training --- lidar: 95.38 - delta: 3.04 ---  rgb: 95.73 - delta.: 2.73
+-----------
+set_019
+supervised baseline --- lidar: 92.09 --- rgb: 92.22
+co-training --- lidar: 95.88 - delta: 3.79 ---  rgb: 95.16 - delta.: 2.94
+-----------
+set_020
+supervised baseline --- lidar: 92.66 --- rgb: 91.44
+co-training --- lidar: 94.84 - delta: 2.18 ---  rgb: 94.78 - delta.: 3.34
+=================================
+TRAINSET:-----72
+=================================
+-----------
+set_001
+supervised baseline --- lidar: 93.56 --- rgb: 93.73
+co-training --- lidar: 96.02 - delta: 2.46 ---  rgb: 95.69 - delta.: 1.96
+-----------
+set_002
+supervised baseline --- lidar: 94.78 --- rgb: 94.62
+co-training --- lidar: 96.25 - delta: 1.47 ---  rgb: 96.22 - delta.: 1.60
+-----------
+set_003
+supervised baseline --- lidar: 92.92 --- rgb: 94.78
+co-training --- lidar: 96.06 - delta: 3.14 ---  rgb: 95.83 - delta.: 1.05
+-----------
+set_004
+supervised baseline --- lidar: 94.48 --- rgb: 93.30
+co-training --- lidar: 95.58 - delta: 1.10 ---  rgb: 95.52 - delta.: 2.22
+-----------
+set_005
+supervised baseline --- lidar: 94.32 --- rgb: 94.17
+co-training --- lidar: 96.31 - delta: 1.99 ---  rgb: 95.95 - delta.: 1.78
+-----------
+set_006
+supervised baseline --- lidar: 95.06 --- rgb: 94.06
+co-training --- lidar: 96.28 - delta: 1.22 ---  rgb: 95.79 - delta.: 1.73
+-----------
+set_007
+supervised baseline --- lidar: 93.94 --- rgb: 93.96
+co-training --- lidar: 96.17 - delta: 2.23 ---  rgb: 95.92 - delta.: 1.96
+-----------
+set_008
+supervised baseline --- lidar: 93.95 --- rgb: 93.89
+co-training --- lidar: 96.45 - delta: 2.50 ---  rgb: 96.22 - delta.: 2.33
+-----------
+set_009
+supervised baseline --- lidar: 93.84 --- rgb: 93.30
+co-training --- lidar: 95.65 - delta: 1.81 ---  rgb: 96.02 - delta.: 2.72
+-----------
+set_010
+supervised baseline --- lidar: 93.46 --- rgb: 94.59
+co-training --- lidar: 95.86 - delta: 2.40 ---  rgb: 96.16 - delta.: 1.57
+-----------
+set_011
+supervised baseline --- lidar: 95.22 --- rgb: 94.44
+co-training --- lidar: 96.06 - delta: 0.84 ---  rgb: 95.72 - delta.: 1.28
+-----------
+set_012
+supervised baseline --- lidar: 95.21 --- rgb: 94.28
+co-training --- lidar: 95.76 - delta: 0.55 ---  rgb: 95.57 - delta.: 1.29
+-----------
+set_013
+supervised baseline --- lidar: 93.30 --- rgb: 93.98
+co-training --- lidar: 96.28 - delta: 2.98 ---  rgb: 96.36 - delta.: 2.38
+-----------
+set_014
+supervised baseline --- lidar: 95.11 --- rgb: 94.20
+co-training --- lidar: 96.20 - delta: 1.09 ---  rgb: 95.95 - delta.: 1.75
+-----------
+set_015
+supervised baseline --- lidar: 96.00 --- rgb: 94.86
+co-training --- lidar: 96.84 - delta: 0.84 ---  rgb: 96.57 - delta.: 1.71
+-----------
+set_016
+supervised baseline --- lidar: 94.63 --- rgb: 93.58
+co-training --- lidar: 96.36 - delta: 1.73 ---  rgb: 96.23 - delta.: 2.65
+-----------
+set_017
+supervised baseline --- lidar: 93.70 --- rgb: 92.11
+co-training --- lidar: 95.95 - delta: 2.25 ---  rgb: 95.02 - delta.: 2.91
+-----------
+set_018
+supervised baseline --- lidar: 93.72 --- rgb: 94.04
+co-training --- lidar: 95.34 - delta: 1.62 ---  rgb: 95.64 - delta.: 1.60
+-----------
+set_019
+supervised baseline --- lidar: 94.77 --- rgb: 93.73
+co-training --- lidar: 96.30 - delta: 1.53 ---  rgb: 96.11 - delta.: 2.38
+-----------
+set_020
+supervised baseline --- lidar: 93.99 --- rgb: 93.74
+co-training --- lidar: 96.53 - delta: 2.54 ---  rgb: 95.91 - delta.: 2.17
+=================================
+TRAINSET:-----108
+=================================
+-----------
+set_001
+supervised baseline --- lidar: 94.14 --- rgb: 94.76
+co-training --- lidar: 95.93 - delta: 1.79 ---  rgb: 96.04 - delta.: 1.28
+-----------
+set_002
+supervised baseline --- lidar: 95.60 --- rgb: 95.68
+co-training --- lidar: 96.86 - delta: 1.26 ---  rgb: 97.02 - delta.: 1.34
+-----------
+set_003
+supervised baseline --- lidar: 94.86 --- rgb: 95.16
+co-training --- lidar: 96.70 - delta: 1.84 ---  rgb: 96.18 - delta.: 1.02
+-----------
+set_004
+supervised baseline --- lidar: 94.99 --- rgb: 94.75
+co-training --- lidar: 96.25 - delta: 1.26 ---  rgb: 96.07 - delta.: 1.32
+-----------
+set_005
+supervised baseline --- lidar: 94.81 --- rgb: 95.20
+co-training --- lidar: 96.86 - delta: 2.05 ---  rgb: 96.62 - delta.: 1.42
+-----------
+set_006
+supervised baseline --- lidar: 95.27 --- rgb: 94.29
+co-training --- lidar: 96.55 - delta: 1.28 ---  rgb: 96.06 - delta.: 1.77
+-----------
+set_007
+supervised baseline --- lidar: 94.89 --- rgb: 94.64
+co-training --- lidar: 96.18 - delta: 1.29 ---  rgb: 96.12 - delta.: 1.48
+-----------
+set_008
+supervised baseline --- lidar: 94.84 --- rgb: 95.73
+co-training --- lidar: 96.98 - delta: 2.14 ---  rgb: 96.78 - delta.: 1.05
+-----------
+set_009
+supervised baseline --- lidar: 94.50 --- rgb: 93.54
+co-training --- lidar: 96.16 - delta: 1.66 ---  rgb: 96.39 - delta.: 2.85
+-----------
+set_010
+supervised baseline --- lidar: 94.68 --- rgb: 95.34
+co-training --- lidar: 96.06 - delta: 1.38 ---  rgb: 96.27 - delta.: 0.93
+-----------
+set_011
+supervised baseline --- lidar: 95.50 --- rgb: 94.64
+co-training --- lidar: 96.51 - delta: 1.01 ---  rgb: 95.95 - delta.: 1.31
+-----------
+set_012
+supervised baseline --- lidar: 95.50 --- rgb: 94.95
+co-training --- lidar: 95.75 - delta: 0.25 ---  rgb: 95.53 - delta.: 0.58
+-----------
+set_013
+supervised baseline --- lidar: 94.05 --- rgb: 94.71
+co-training --- lidar: 96.51 - delta: 2.46 ---  rgb: 96.63 - delta.: 1.92
+-----------
+set_014
+supervised baseline --- lidar: 95.66 --- rgb: 95.10
+co-training --- lidar: 96.62 - delta: 0.96 ---  rgb: 96.47 - delta.: 1.37
+-----------
+set_015
+supervised baseline --- lidar: 96.26 --- rgb: 95.47
+co-training --- lidar: 96.97 - delta: 0.71 ---  rgb: 96.49 - delta.: 1.02
+-----------
+set_016
+supervised baseline --- lidar: 95.22 --- rgb: 94.74
+co-training --- lidar: 96.50 - delta: 1.28 ---  rgb: 96.47 - delta.: 1.73
+-----------
+set_017
+supervised baseline --- lidar: 95.13 --- rgb: 93.72
+co-training --- lidar: 96.01 - delta: 0.88 ---  rgb: 95.06 - delta.: 1.34
+-----------
+set_018
+supervised baseline --- lidar: 95.19 --- rgb: 94.37
+co-training --- lidar: 96.53 - delta: 1.34 ---  rgb: 96.42 - delta.: 2.05
+-----------
+set_019
+supervised baseline --- lidar: 95.84 --- rgb: 94.89
+co-training --- lidar: 96.76 - delta: 0.92 ---  rgb: 96.25 - delta.: 1.36
+-----------
+set_020
+supervised baseline --- lidar: 94.41 --- rgb: 94.18
+co-training --- lidar: 96.20 - delta: 1.79 ---  rgb: 95.82 - delta.: 1.64
+=================================
+TRAINSET:-----144
+=================================
+-----------
+set_001
+supervised baseline --- lidar: 94.32 --- rgb: 95.41
+co-training --- lidar: 96.38 - delta: 2.06 ---  rgb: 96.49 - delta.: 1.08
+-----------
+set_002
+supervised baseline --- lidar: 95.86 --- rgb: 96.34
+co-training --- lidar: 96.70 - delta: 0.84 ---  rgb: 97.08 - delta.: 0.74
+-----------
+set_003
+supervised baseline --- lidar: 95.56 --- rgb: 95.53
+co-training --- lidar: 96.82 - delta: 1.26 ---  rgb: 96.34 - delta.: 0.81
+-----------
+set_004
+supervised baseline --- lidar: 96.03 --- rgb: 95.03
+co-training --- lidar: 96.92 - delta: 0.89 ---  rgb: 96.38 - delta.: 1.35
+-----------
+set_005
+supervised baseline --- lidar: 95.23 --- rgb: 96.05
+co-training --- lidar: 96.85 - delta: 1.62 ---  rgb: 97.13 - delta.: 1.08
+-----------
+set_006
+supervised baseline --- lidar: 95.89 --- rgb: 95.10
+co-training --- lidar: 95.98 - delta: 0.09 ---  rgb: 95.70 - delta.: 0.60
+-----------
+set_007
+supervised baseline --- lidar: 95.68 --- rgb: 95.33
+co-training --- lidar: 96.47 - delta: 0.79 ---  rgb: 96.33 - delta.: 1.00
+-----------
+set_008
+supervised baseline --- lidar: 95.54 --- rgb: 96.09
+co-training --- lidar: 96.85 - delta: 1.31 ---  rgb: 96.53 - delta.: 0.44
+-----------
+set_009
+supervised baseline --- lidar: 94.97 --- rgb: 94.66
+co-training --- lidar: 96.25 - delta: 1.28 ---  rgb: 96.41 - delta.: 1.75
+-----------
+set_010
+supervised baseline --- lidar: 95.48 --- rgb: 95.81
+co-training --- lidar: 96.39 - delta: 0.91 ---  rgb: 96.83 - delta.: 1.02
+-----------
+set_011
+supervised baseline --- lidar: 95.97 --- rgb: 94.83
+co-training --- lidar: 96.66 - delta: 0.69 ---  rgb: 96.46 - delta.: 1.63
+-----------
+set_012
+supervised baseline --- lidar: 95.97 --- rgb: 95.00
+co-training --- lidar: 96.32 - delta: 0.35 ---  rgb: 95.83 - delta.: 0.83
+-----------
+set_013
+supervised baseline --- lidar: 94.81 --- rgb: 95.26
+co-training --- lidar: 96.44 - delta: 1.63 ---  rgb: 96.38 - delta.: 1.12
+-----------
+set_014
+supervised baseline --- lidar: 95.53 --- rgb: 95.22
+co-training --- lidar: 96.75 - delta: 1.22 ---  rgb: 96.48 - delta.: 1.26
+-----------
+set_015
+supervised baseline --- lidar: 96.51 --- rgb: 95.57
+co-training --- lidar: 96.75 - delta: 0.24 ---  rgb: 96.72 - delta.: 1.15
+-----------
+set_016
+supervised baseline --- lidar: 95.59 --- rgb: 94.84
+co-training --- lidar: 96.62 - delta: 1.03 ---  rgb: 96.46 - delta.: 1.62
+-----------
+set_017
+supervised baseline --- lidar: 95.26 --- rgb: 94.28
+co-training --- lidar: 96.25 - delta: 0.99 ---  rgb: 95.37 - delta.: 1.09
+-----------
+set_018
+supervised baseline --- lidar: 95.18 --- rgb: 95.15
+co-training --- lidar: 96.47 - delta: 1.29 ---  rgb: 96.37 - delta.: 1.22
+-----------
+set_019
+supervised baseline --- lidar: 96.04 --- rgb: 95.03
+co-training --- lidar: 96.97 - delta: 0.93 ---  rgb: 96.37 - delta.: 1.34
+-----------
+set_020
+supervised baseline --- lidar: 95.25 --- rgb: 95.05
+co-training --- lidar: 96.46 - delta: 1.21 ---  rgb: 96.41 - delta.: 1.36
+-----------
