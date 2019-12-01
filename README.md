@@ -10,7 +10,8 @@
 * The FCN-Resnet50 is implemented in torchvision: https://pytorch.org/docs/master/torchvision/models.html#semantic-segmentation 
 
 ### Data set splits:
-In the folder sets, you can find the 20 data set splits used for generating the results reported in the paper.
+In the folder sets, you can find the 20 data set splits used for generating the results reported in the paper for the main experiment.
+The folder set_kittiBenchmark contains the training-validation-unlabeled split used for training the FCN-Resnet50 submitted to the KITTI road benchmark.
 
 ### Code for generating data sets and training:
 The code for generating the data sets and for training the networks will be uploaded once we have completed the work
