@@ -1,6 +1,6 @@
 # Repository for the paper 'Lidar-Camera Co-Training for Semi-Supervised Road Detection'  
 ### Important links:
-* Link to paper preprint: 
+* Link to paper preprint: https://arxiv.org/abs/1911.12597
 * Link to youtube playlist with comparison videos: [click here](https://www.youtube.com/playlist?list=PLKaUu00MYU2j06UY99kMS7FOEdjesKYJ_)
 * Link to KITTI road benchmark and data set: http://www.cvlibs.net/datasets/kitti/eval_road.php
 * Link to KITTI raw data set: http://www.cvlibs.net/datasets/kitti/raw_data.php
@@ -25,6 +25,6 @@ Preprint citation of the paper:
 @article{CaltagironeEtAl2019,
   title={Lidar-Camera Co-Training for Semi-Supervised Road Detection},
   author={Caltagirone, Luca and Lennart, Svensson and Wahde, Mattias and Sanfridson, Martin},
-  journal={arXiv preprint arXiv:},
+  journal={arXiv preprint arXiv:1911.12597},
   year={2019}
 }
